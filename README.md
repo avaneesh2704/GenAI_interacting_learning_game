@@ -1,5 +1,6 @@
-GenAI-Interactive-Learning-Game
-🧠 GenAI Quiz & Badge System An interactive, category-based aptitude quiz application powered by Generative AI and OpenRouter's API, with features like user progress tracking, scoring, and badge assignment.
+GenAI_Interactive_Learning_Game
+
+GenAI Quiz & Badge System An interactive, category-based aptitude quiz application powered by Generative AI and OpenRouter's API, with features like user progress tracking, scoring, and badge assignment.
 
 🚀 Features 📚 AI-Generated Aptitude Questions Dynamically generate MCQs using GPT via OpenRouter API for categories: Verbal, Logical, Mathematics.
 
